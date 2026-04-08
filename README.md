@@ -6,6 +6,10 @@ FlowCraft enables users to build conversational logic using a drag-and-drop inte
 
 ---
 
+## 🔗 Live Demo
+
+https://flowcraft-blue.vercel.app/
+
 ## ⚙️ How It Works
 
 FlowCraft represents chatbot conversations as a **directed graph**:
